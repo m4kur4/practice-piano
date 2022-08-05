@@ -14,12 +14,12 @@
 * [Luminous Memory](https://www.youtube.com/watch?v=FE_BUPMME3g&ab_channel=%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4%EA%B3%B5%EA%B0%84%2FFreeSpace-AnimePianoCovers)
   - 通し：○
   - 暗譜：○
-  - 速度：×　60でミスタッチ修正中
+  - 速度：×　60でミスタッチ修正中 (最後のパート40)
   - 強弱：
 
 ### 課題
 * オクターブの移動
-  - [参考](https://www.youtube.com/watch?v=wBYrXR2H2ts&ab_channel=CANACANAfamily)
+  - 掴む／脱力
 * 譜読み
   - 加線音符　
   - 写譜

@@ -14,7 +14,7 @@
 * 135指をおさえながら24指で交互に打鍵
 * 24指を抑えながら35指で交互に打鍵
 
-### 練習中の曲
+### 練習中
 * [Luminous Memory](https://www.youtube.com/watch?v=FE_BUPMME3g&ab_channel=%EC%9E%90%EC%9C%A0%EB%A1%9C%EC%9A%B4%EA%B3%B5%EA%B0%84%2FFreeSpace-AnimePianoCovers)
   - 通し：○
   - 暗譜：○
@@ -25,14 +25,15 @@
 * オクターブの移動
   - [参考](https://www.youtube.com/watch?v=wBYrXR2H2ts&ab_channel=CANACANAfamily)
 * 譜読み
-  - 加線音符
+  - 加線音符　
   - 写譜
 
-### 練習時間 (h)
-| today | total | diff |
-| --- | --- | --- |
-| 1.0 | 51.0 | +1.0 |
+### 時間 (h)
+| today | total |
+| --- | --- |
+| 1.0 | 51.0 |
 
-#### いつ
+#### メモ
+* キーボード買ってから記録してないので50スタート
 * 4:00 - 5:00
 
